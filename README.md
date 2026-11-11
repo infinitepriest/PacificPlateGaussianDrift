@@ -152,8 +152,8 @@ Creative Commons Attribution 4.0 International License (CC-BY-4.0)
 
 ## Author
 
-Ayushman M. (https://github.com/aymisxx)  
-M.S. Robotics & Autonomous Systems (MAE)  
+Ayushman M. (https://github.com/infinitepriest)  
+M.S. Robotics & Autonomous Systems (Mechanical & Aerospace)  
 Arizona State University  
 
 ---
